@@ -29,7 +29,7 @@
     </dependencies>
 
     <build>
-        <finalName>timecal</finalName>
+        <finalName>akido</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
@@ -52,7 +52,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>TimeCal</mainClass>
+                            <mainClass>Akido</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
